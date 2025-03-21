@@ -34,6 +34,8 @@ public class GroupWork {
         System.out.println("Number Squared: " + Calculator.square(num1));
         System.out.println("(Group 6: Diaz, Almario, Echegorin, Mangaoang, Conde Sammylee, Palermo, Repollo, Melida, Ondoy, Sapayla)");
     
+        System.out.println("(GROUP 9 - Jarap, Coronado) Min: " + Calculator.min(num1, num2));  
 
     }
+
 }
